@@ -1,19 +1,49 @@
-# Getting Started
-Install the dependencies and run the project
-```
+# 🎲 Tenzies Game (React)
+
+A simple and fun dice game built with **React**. The goal is to roll the dice until **all 10 dice show the same number**. You can freeze dice between rolls to win the game.
+
+---
+
+## 🚀 Features
+
+* Roll 10 dice (1–6)
+* Freeze / unfreeze individual dice
+* Re-roll only unfrozen dice
+* Win detection
+* Restart game
+
+---
+
+## 🛠️ Tech Stack
+
+* React (Hooks)
+* JavaScript (ES6+)
+* CSS
+
+---
+
+## 🎮 How to Play
+
+1. Click **Roll** to roll the dice
+2. Click a die to freeze it
+3. Keep rolling until all dice are the same
+4. 🎉 You win!
+
+---
+
+## ⚙️ Setup
+
+```bash
+git clone https://github.com/your-username/tenzies-react.git
+cd tenzies-react
 npm install
-npm start
+npm start   # or npm run dev
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+---
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 👤 Author
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+**Jitendra Kumar**
 
-Happy Coding!
+⭐ Star the repo if you like it!
